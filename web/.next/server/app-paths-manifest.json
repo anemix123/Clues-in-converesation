@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/motor/page": "app/motor/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/api/demo-benchmark-sample/route": "app/api/demo-benchmark-sample/route.js"
+}

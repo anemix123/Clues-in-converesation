@@ -1,0 +1,10 @@
+elevenlabs
+sounddevice
+scipy
+librosa
+scikit-learn
+streamlit
+joblib
+numpy
+pandas
+python-dotenv
